@@ -9,4 +9,4 @@ Landscape:
 ![](Dokumentasi/landscape.jpeg)
 
 Video:
-![](Dokumentasi/video.mp4)
+![Demo](https://user-images.githubusercontent.com/73786777/112301488-94a52500-8ccc-11eb-9370-03fb97b1f1ee.mp4)
