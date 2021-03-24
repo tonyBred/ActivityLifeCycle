@@ -2,6 +2,7 @@
 Hasil:
 
 Potrait:
+
 ![](Dokumentasi/potrait.jpeg)
 
 Landscape:
